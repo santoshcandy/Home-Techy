@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Home-Techy/static/css/main.09543217.css",
-    "main.js": "/Home-Techy/static/js/main.35ad650d.js",
+    "main.js": "/Home-Techy/static/js/main.de08039b.js",
     "static/js/453.3a636f22.chunk.js": "/Home-Techy/static/js/453.3a636f22.chunk.js",
     "static/media/connection.jpg": "/Home-Techy/static/media/connection.952b2bede931a10de8f0.jpg",
     "static/media/decorator.jpg": "/Home-Techy/static/media/decorator.0bfd160feb63ea7d564d.jpg",
@@ -39,11 +39,11 @@
     "static/media/sscombined.jfif": "/Home-Techy/static/media/sscombined.c8dd0e9ad5aae6d4b485.jfif",
     "index.html": "/Home-Techy/index.html",
     "main.09543217.css.map": "/Home-Techy/static/css/main.09543217.css.map",
-    "main.35ad650d.js.map": "/Home-Techy/static/js/main.35ad650d.js.map",
+    "main.de08039b.js.map": "/Home-Techy/static/js/main.de08039b.js.map",
     "453.3a636f22.chunk.js.map": "/Home-Techy/static/js/453.3a636f22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09543217.css",
-    "static/js/main.35ad650d.js"
+    "static/js/main.de08039b.js"
   ]
 }
