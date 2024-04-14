@@ -4,9 +4,9 @@ import { BrowserRouter } from 'react-router-dom';
 import LinksCheack from "./MyProject/LinksCheack"
 function App() {
   return (
-    <div className="App">
+    <div className="App text-center text-capitalize">
      <BrowserRouter>
-     <LinksCheack/>
+        <LinksCheack/>
      </BrowserRouter>
     </div>
   );
