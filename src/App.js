@@ -5,6 +5,7 @@ import LinksCheack from "./MyProject/LinksCheack"
 function App() {
   return (
     <div className="App text-center text-capitalize">
+      <h1>home tech official</h1>
      <BrowserRouter>
         <LinksCheack/>
      </BrowserRouter>
